@@ -7,7 +7,8 @@ public class testClass {
 		int a = 10;
 		int b = 8;
 		System.out.println(a+b);
-		System.out.println("Collaboration with members 2222");
+		System.out.println("Added approval");
+		
 
 	}
 	

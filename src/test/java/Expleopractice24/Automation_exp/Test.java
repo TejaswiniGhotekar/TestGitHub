@@ -25,6 +25,7 @@ public class Test {
 		a();
 		Test C5 = new Test ();
 		C5.b();
+		System.out.println(z);
 	}
 }
 

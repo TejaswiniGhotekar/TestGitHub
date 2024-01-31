@@ -13,7 +13,7 @@ public class Practice {
 
 		int c = 23, d = 25; 
 
-		
+		System.out.println("for checking code");
 		
 	}
 
